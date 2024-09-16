@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\programmering-inl-mnings-uppgift\\programmering-inl-mnings-uppgift.csproj": {}
+    "C:\\Github\\programmering-inlamnings-uppgift\\programmering-inl-mnings-uppgift.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\programmering-inl-mnings-uppgift\\programmering-inl-mnings-uppgift.csproj": {
+    "C:\\Github\\programmering-inlamnings-uppgift\\programmering-inl-mnings-uppgift.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-inl-mnings-uppgift\\programmering-inl-mnings-uppgift.csproj",
+        "projectUniqueName": "C:\\Github\\programmering-inlamnings-uppgift\\programmering-inl-mnings-uppgift.csproj",
         "projectName": "programmering-inl-mnings-uppgift",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-inl-mnings-uppgift\\programmering-inl-mnings-uppgift.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\programmering-inl-mnings-uppgift\\obj\\",
+        "projectPath": "C:\\Github\\programmering-inlamnings-uppgift\\programmering-inl-mnings-uppgift.csproj",
+        "packagesPath": "C:\\Users\\tosi07001\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\programmering-inlamnings-uppgift\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\tosi07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

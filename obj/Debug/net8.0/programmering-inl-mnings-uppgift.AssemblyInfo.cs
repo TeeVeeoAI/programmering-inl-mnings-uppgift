@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("programmering-inl-mnings-uppgift")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11052666970e4fba8b03ca54f170a4bb4e01d9da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7d701c8debdcd36acdc695048e400e8155847df")]
 [assembly: System.Reflection.AssemblyProductAttribute("programmering-inl-mnings-uppgift")]
 [assembly: System.Reflection.AssemblyTitleAttribute("programmering-inl-mnings-uppgift")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
